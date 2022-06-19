@@ -1,4 +1,4 @@
-# Coffee-Dessert-RecorDiary
+# Coffee-Dessert-RecordDiary
 
 - [설치 및 실행](#설치-및-실행)
 - [설계](#설계)
